@@ -1271,8 +1271,7 @@ Manager：ビルド作業を行うためのツールです。
   ▶ ビルド済みのapkファイルを直接配布しているサイトがいくつか存在しますが、GitHubで公開されているビルド済みのapkファイル以外は、安全性の面から利用は推奨されません。
 
 ### ■ ReVanced・Morphe・URVの使い方
-* YouTube Morphe YouTubeの非公式アプリ インストール方法｜Kdroidwinの日記：
-  https://kdroidwin.hatenablog.com/entry/2026/02/27/213227
+* YouTube Morphe YouTubeの非公式アプリ インストール方法｜Kdroidwinの日記：https://kdroidwin.hatenablog.com/entry/2026/02/27/213227
 
 ReVanced・Morphe・URVについては、開発経緯や人気のあるサードパーティ製パッチ（外部の改造データ）導入手順が複雑なため、概要の説明にとどめます。
 Official Morphe Patchesをビルドしたことがあるのみで、人気のあるanddea Patchなどを実際に導入したことがありません。
