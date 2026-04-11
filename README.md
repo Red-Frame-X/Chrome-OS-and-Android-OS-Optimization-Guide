@@ -622,6 +622,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 
 ## 特殊詐欺対策
 **！警察庁・SOS47特殊詐欺対策ページ**
+
 <https://www.npa.go.jp/bureau/safetylife/sos47/>
 
 **成りすまし・その他の特殊詐欺**
