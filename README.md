@@ -1252,6 +1252,7 @@ Managerの利用は、**自己責任**で行う必要があります。
 Manager：ビルド作業を行うためのツールです。
 
 ▶ Managerをインストールする前に、VirusTotal（https://www.virustotal.com/gui/home/upload）でスキャンをかけるのも良いかと思います。
+
 ▶ VirusTotal Mobile：https://play.google.com/store/apps/details?id=com.funnycat.virustotal
 
 **略称**
