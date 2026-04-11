@@ -265,7 +265,7 @@ https://chromewebstore.google.com/category/themes
 ---
 
 ## ChromeOS Chrome アプリ
-* **Chrome アプリのサポート終了（順次終了済み）**
+* **Chrome アプリのサポート終了（順次終了済み）**：
 
 https://support.google.com/chrome/a/answer/15950395?hl=ja
 
