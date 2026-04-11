@@ -741,6 +741,7 @@ AdGuardでの広告ブロック漏れ、Anti-Adblock Scriptによるコンテン
 詳細な検証にはブラウザのデベロッパーツールが使えます。
 
 * 概要｜Chrome DevTools｜Chrome for Developers
+
   https://developer.chrome.com/docs/devtools/overview?hl=ja
 * ブラウザーの開発者ツールとは｜MDN
   https://developer.mozilla.org/ja/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools
