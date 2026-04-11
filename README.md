@@ -937,7 +937,6 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
  
   GitHub：https://github.com/sjhgvr/oisd
  
-  
 
 * **StevenBlack / hosts**：広告、マルウェア、フェイクニュースなどの悪意あるドメインをブロックするため、複数の信頼できるリストを統合して重複を排除した強力でカスタマイズ可能なhostsファイルです。
   
