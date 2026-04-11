@@ -699,6 +699,7 @@ https://adguard.com/kb/ja/general/ad-filtering/adguard-filters/
 Yuki2718氏のよくある質問より引用：（https://github.com/Yuki2718/adblock2/wiki/よくある質問）
 
 > Q 4-8：uBlock Origin以外のブロッカー（PC）でおすすめのフィルタ構成を教えてください。
+
 > A 4-8：AdGuardでは組込みのフィルタを使っていただくのが無難と思います。AdGuardはuBlock Origin文法の大部分をサポートしていることになっていますが、実際は仕様の違いにより効かなかったり、動作が異なったりすることもあり、そうした細かい仕様は公式ドキュメントに必ずしも載っていません。当然ですが、AdGuardのフィルタはAdGuard上で完璧に動作します4-9。AdGuard日本語フィルタはかつて不評でしたが、今では昔と別物といってよいほど精度が高くなっています。
 
 **コンテンツブロックフィルタ**
