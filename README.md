@@ -1,6 +1,6 @@
 # Chrome-OS-and-Android-OS-Optimization-Guide
 
-# 備忘録
+- Original：<https://writening.net/page?cEEujp>
 
 ## About Me
 「IT学習の一環」として、デバイス設定の記録やAdGuard Custom Rules / UserScript / Regexの作成などに取り組んでいます。
