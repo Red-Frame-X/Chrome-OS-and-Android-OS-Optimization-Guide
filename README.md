@@ -108,8 +108,7 @@ Tampermonkeyを使用するためには、各拡張機能の内部設定から**
 
 https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
 
-* **Greasy Fork‐便利で安全なUserScript**
-  https://greasyfork.org/ja
+* **Greasy Fork‐便利で安全なUserScript**：  https://greasyfork.org/ja
 
 **❗️留意点**
 以下のブラウザ拡張機能やUserScriptは、全てをインストールして使用しているわけではありません。
