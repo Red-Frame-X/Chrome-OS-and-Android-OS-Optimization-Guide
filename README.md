@@ -939,7 +939,7 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
  
   
   
-* **StevenBlack / hosts**
+* **StevenBlack / hosts**：
   広告、マルウェア、フェイクニュースなどの悪意あるドメインをブロックするため、複数の信頼できるリストを統合して重複を排除した強力でカスタマイズ可能なhostsファイルです。
   GitHub：https://github.com/StevenBlack/hosts
 * **sebsauvage.net hosts blocklist**
