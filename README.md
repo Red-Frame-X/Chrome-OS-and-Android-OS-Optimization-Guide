@@ -1004,8 +1004,7 @@ HTTPSフィルタリングによる不具合を避けるため、金融・決済
 * Elixir Browser｜SF-FLAM：https://github.com/SF-FLAM/ElixirBrowser
 * Firefox｜Mozilla：https://play.google.com/store/apps/details?id=org.mozilla.firefox
 
-* なんJ AdGuard部 Wiki* > HTTPSフィルタリングについて：
-  https://wikiwiki.jp/nanj-adguard/HTTPS%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+* なんJ AdGuard部 Wiki* > HTTPSフィルタリングについて：https://wikiwiki.jp/nanj-adguard/HTTPS%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 * 中間者攻撃（MITM攻撃｜マン・イン・ザ・ミドル攻撃｜バケツリレー攻撃）
   https://www.nri-secure.co.jp/glossary/mtm-attack
 
