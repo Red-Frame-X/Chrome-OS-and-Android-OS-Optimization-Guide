@@ -1251,7 +1251,7 @@ v4.7.1（v4.7.2を除く）からv4.9までのバージョンについて、v4.1
 Managerの利用は、**自己責任**で行う必要があります。
 Manager：ビルド作業を行うためのツールです。
 
-▶ Managerをインストールする前に、VirusTotal：https://www.virustotal.com/gui/home/upload）でスキャンをかけるのも良いかと思います。
+▶ Managerをインストールする前に、VirusTotal：https://www.virustotal.com/gui/home/upload でスキャンをかけるのも良いかと思います。
 
 ▶ VirusTotal Mobile：https://play.google.com/store/apps/details?id=com.funnycat.virustotal
 
