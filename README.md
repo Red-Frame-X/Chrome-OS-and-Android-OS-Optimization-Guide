@@ -646,8 +646,7 @@ mondで自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r
 ---
 
 ## 特殊詐欺対策
-**！警察庁・SOS47特殊詐欺対策ページ**：
-https://www.npa.go.jp/bureau/safetylife/sos47/
+**！警察庁・SOS47特殊詐欺対策ページ**：https://www.npa.go.jp/bureau/safetylife/sos47/
 
 **成りすまし・その他の特殊詐欺**
 警察官、医師、弁護士、自治体職員などを名乗る電話やLINEでの個人情報の聞き取り・金銭の要求は、特殊詐欺の可能性が極めて高いです。
