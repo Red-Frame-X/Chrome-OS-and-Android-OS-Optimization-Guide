@@ -268,6 +268,7 @@ https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
 
 ## ChromeOS Chrome アプリ
 * **Chrome アプリのサポート終了（順次終了済み）**
+
   https://support.google.com/chrome/a/answer/15950395?hl=ja
 
 ---
