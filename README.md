@@ -1341,8 +1341,7 @@ RVX開発者のinotia00氏もMorpheの立ち上げメンバーであり、今後
 - anddea → RVXがベース
 - RVXの全機能を使いたい場合はanddea Patchを当てる必要があります。
 
-* Patches for ReVanced（anddea Patch｜RVX用のフォークPatch）：
-  https://github.com/anddea/revanced-patches/releases
+* Patches for ReVanced（anddea Patch｜RVX用のフォークPatch）： https://github.com/anddea/revanced-patches/releases
 * Bundle Search｜Search for ReVanced patch bundles
   https://revanced-external-bundles.brosssh.com/
   ▶ Bundle Searchは、ReVancedの非公式パッチ導入用URLを検索・取得できるサイトです。公式にはない独自機能を持つ有志の外部パッチを横断検索し、URLを取得できます。
