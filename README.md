@@ -1144,7 +1144,9 @@ AdGuard for Androidの自動再起動・再保護の開始後の状況は
 **① AdGuard for Androidをv4.6.5以下のバージョンにダウングレードする**
 
 ▶ プライベートブラウザが実装されていないため、Android System WebViewの影響を受けにくいという特徴を逆手に取った対処法です。
+
 ▶ 過去バージョンで人気なのはv3.6.11（https://github.com/AdguardTeam/AdguardForAndroid/releases/tag/v3.6.11）です。
+
 ▶ ただしAdGuard for Android v4.6.5以下のバージョンであっても、ローカルVPNの切断現象は起こると思われます。
 
 **② AdGuard for Android v4.7.1〜v4.9のバージョンでウォッチドッグ機能を有効にする**
