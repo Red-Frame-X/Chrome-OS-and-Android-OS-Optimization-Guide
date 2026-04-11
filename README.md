@@ -573,8 +573,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 * **SDXL**：https://stablediffusionweb.com/ - 狙い撃ち・人物や複雑な構図の生成で優秀
 
 **出典**
-mond
-で自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m
+mondで自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m
 
 ---
 
@@ -1252,7 +1251,7 @@ v4.7.1（v4.7.2を除く）からv4.9までのバージョンについて、v4.1
 Managerの利用は、**自己責任**で行う必要があります。
 Manager：ビルド作業を行うためのツールです。
 
-▶ Managerをインストールする前に、VirusTotal（https://www.virustotal.com/gui/home/upload）でスキャンをかけるのも良いかと思います。
+▶ Managerをインストールする前に、VirusTotal：https://www.virustotal.com/gui/home/upload）でスキャンをかけるのも良いかと思います。
 
 ▶ VirusTotal Mobile：https://play.google.com/store/apps/details?id=com.funnycat.virustotal
 
