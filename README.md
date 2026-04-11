@@ -931,8 +931,6 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 
   GitHub：https://github.com/hagezi/dns-blocklists
 
-  
-  
 * **oisd｜domain blocklist**
  
   HP：https://oisd.nl/
