@@ -984,7 +984,7 @@ AdGuardのネットワークフィルタリングの心臓部である「CoreLib
 
 **HTTPSフィルタリング対象外Webサイト**
 AdGuard社が予期せぬ不具合を回避するためにHTTPSフィルタリングから除外しているドメインのリストです。
-* [topics.smt.docomo.ne.jp] Handling of docomo.ne.jp, its subdomains, and related domains during HTTPS filtering #6016
+* [topics.smt.docomo.ne.jp] Handling of docomo.ne.jp, its subdomains, and related domains during HTTPS filtering #6016：
   https://github.com/AdguardTeam/AdguardForAndroid/issues/6016
   * 自分が試した修正案の一例を報告しました。
   * 計画されていないため閉鎖。
