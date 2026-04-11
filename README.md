@@ -270,7 +270,7 @@ https://chromewebstore.google.com/category/themes
 ---
 
 ## ChromeOS Android アプリ
-* **Google Play アプリ**：  https://play.google.com/store/apps
+* **Google Play アプリ**： https://play.google.com/store/apps
 
 * **ChMate (\*)**
   * URL：https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
