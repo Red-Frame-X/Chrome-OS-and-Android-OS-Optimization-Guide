@@ -1159,7 +1159,7 @@ AdGuard for Androidの自動再起動・再保護の開始後の状況は
 
 ▶ MacroDroid：https://play.google.com/store/search?q=MacroDroid&c=apps をインストールします。
 
-▶ ローカルVPN切断時にAdGuard for Androidを起動せずにバックグラウンドで再接続を行うマクロ：https://imgur.com/a/5Xi8h9r）｜この方法が最も効果的な対処法とされています。
+▶ ローカルVPN切断時にAdGuard for Androidを起動せずにバックグラウンドで再接続を行うマクロ：https://imgur.com/a/5Xi8h9r｜この方法が最も効果的な対処法とされています。
 
 * **AdGuard for Android側の準備**
   AdGuard for Androidを起動して、設定⚙ > 一般設定 > 詳細設定 > 自動化 の順に進んでトグルスイッチをONにします。そこに表示される「パスワード」をメモします。
