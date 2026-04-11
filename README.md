@@ -810,7 +810,7 @@ AdGuard for Android v4.7.1以上のプライベートブラウザが原因で、
 **対処法（※ローカルVPNの安定化）**
 ① v4.6.5以下（例: [v3.6.11](https://github.com/AdguardTeam/AdguardForAndroid/releases/tag/v3.6.11)）へダウングレード
 ② v4.7.1〜v4.9でウォッチドッグ機能を有効化
-③ **MacroDroidを利用した自動再接続タスクの作成**（最も効果的）
+③ **MacroDroidを利用したVPN自動再接続タスクの作成**（最も効果的）
   ▶ [MacroDroid](https://play.google.com/store/search?q=MacroDroid&c=apps) をインストール
   ▶ マクロの作成（[画像参考](https://imgur.com/a/5Xi8h9r)）：
   * **AdGuard側**: 設定 ⚙ > 一般設定 > 詳細設定 > 自動化 > トグルONにし「パスワード」をメモ。
