@@ -735,6 +735,7 @@ https://adguard--dns-io.translate.goog/kb/ja/general/dns-filtering-syntax/?_x_tr
 
 **Issues報告**
 AdGuardでの広告ブロック漏れ、Anti-Adblock Scriptによるコンテンツブロッカー検出、コンテンツブロックフィルタの誤ブロックといったフィルタ関連の不具合は、以下のいずれかの方法でIssueを作成して報告してください。
+
 ▶ AdGuard for AndroidにおけるFilter Issuesは、HTTPSフィルタリングの使用が前提となって対処されます。
 
 詳細な検証にはブラウザのデベロッパーツールが使えます。
