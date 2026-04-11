@@ -762,6 +762,7 @@ AdGuardでの広告ブロック漏れ、Anti-Adblock Scriptによるコンテン
 
 報告されたIssuesはAdGuard Filters Issuesに反映されます。
 * AdGuard Filters Issues
+ 
   https://github.com/AdguardTeam/AdguardFilters/issues
 
 Issues報告はGitHubアカウントがなくても可能ですが、GitHubアカウントがあるとIssuesやコメントの編集ができるようになります。
