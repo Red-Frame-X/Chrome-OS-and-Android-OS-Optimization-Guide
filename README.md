@@ -1073,6 +1073,7 @@ https://github.com/Yuki2718/adblock2/issues
 * **tinyShield**
   Ad-ShieldはAdGuard Base filterで根本的な対処がされるため、tinyShieldのインストールは原則不要です。
   tinyShieldを使う場合、HTTPSフィルタリングを有効にする必要があります。
+  
   https://github.com/FilteringDev/tinyShield/blob/main/README.ja.md
 
 **Geminiを用いたUserScriptの動作確認**
