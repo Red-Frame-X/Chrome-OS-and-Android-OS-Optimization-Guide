@@ -1022,6 +1022,7 @@ AdGuard Filters、AdGuard DNS（filter）についての最終的な決定はAdG
 * AdGuard DNS filterに起因するIssuesの例
 
   https://github.com/AdguardTeam/AdguardFilters/issues/217896
+
   https://github.com/AdguardTeam/AdguardFilters/issues/220178
 
 この問題を緩和する方法には以下の3種類があります。
