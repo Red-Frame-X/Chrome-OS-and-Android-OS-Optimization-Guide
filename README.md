@@ -573,7 +573,8 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 * **SDXL**：https://stablediffusionweb.com/ - 狙い撃ち・人物や複雑な構図の生成で優秀
 
 **出典**
-mondで自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m
+mond
+で自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m
 
 ---
 
