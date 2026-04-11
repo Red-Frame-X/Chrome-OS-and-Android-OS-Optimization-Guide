@@ -258,8 +258,6 @@ https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
 
 * **Royal Desert Sand**：https://chromewebstore.google.com/detail/royal-desert-sand/nnieplejkjaodhemceganohmdkfekkem
 
-視認性を重視しています
-
 ---
 
 ## ChromeOS Chrome アプリ
