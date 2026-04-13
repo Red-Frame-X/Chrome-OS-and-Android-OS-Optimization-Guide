@@ -675,7 +675,7 @@ v5.2.400以降、拡張機能と組み込み・カスタムフィルタは、「
   ```
 
 ### 𝕏/Twitter ルール作り資料｜uBlockOrigin
-* [uAssets（X投稿)](https://x.com/Red_Frame_X/status/2010925824636252329)
+* [uAssets（X投稿）](https://x.com/Red_Frame_X/status/2010925824636252329)
 * [uAssets / filters / filters-2023.txt](https://github.com/uBlockOrigin/uAssets/blob/e4933fdffaaaa318f58fb8a7a34d784220100ff2/filters/filters-2023.txt#L4284-L4288)
 * [json-prune-xhr-response.js](https://github.com/gorhill/uBlock/wiki/Resources-Library#json-prune-xhr-responsejs-)
 
