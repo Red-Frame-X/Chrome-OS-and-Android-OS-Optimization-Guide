@@ -764,9 +764,11 @@ title/Example Domain/
 Android版Chromeなどで高精度なブロックを行うには必須です。暗号化通信を一時解析し、要素をブロックします。Personal CA証明書のインストールが必要です。
 
 **CoreLibs**
+
 ネットワークフィルタリングの心臓部（[GitHub](https://github.com/AdguardTeam/CoreLibs)）はプロプライエタリですが、フィルタリングルールやScriptletsはオープンソースです。
 
 **HTTPSフィルタリング対象外Webサイト**
+
 予期せぬ不具合回避のため除外されているドメインがあります（例: [Issue #6016](https://github.com/AdguardTeam/AdguardForAndroid/issues/6016)）。
 
 **❗️留意点**
