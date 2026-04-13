@@ -709,7 +709,7 @@ title/Example Domain/
 
 **Issues報告 / 参考サイト**
 * [uBlacklist Issues](https://github.com/iorate/ublacklist/issues) / [uBlacklistRule Issues](https://github.com/ncaq/uBlacklistRule/issues)
-
+**Issues報告 / 参考サイト**
 * [Kdroidwin /uB-filter-by-kdroidwin](https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin)
 * [ncaq / uBlacklistRule](https://github.com/ncaq/uBlacklistRule)
 * [uBlacklistのルール作成例](https://x.com/Kdroidwin1/status/2018617789460984092?s=20)
