@@ -722,6 +722,7 @@ title/Example Domain/
 * **[HP](https://www.zenz-solutions.de/personaldnsfilter-wp/)** / **[GitHub](https://github.com/IngoZenz/personaldnsfilter)** / **[FAQ](https://www.zenz-solutions.de/faq/)**
 
 **◆ personalDNSfilter（ローカルVPNモード）を安定して稼働させるための設定**
+
 ※ ChromeOS内蔵のAndroid OSには「アプリのバッテリー使用量」の設定項目がありません。
 * Androidのステータスバー：通知右上⚙を押して、**通知をデフォルトからサイレント**に変更する
 * AndroidのVPN設定で**「常時接続VPN」を有効**にする
