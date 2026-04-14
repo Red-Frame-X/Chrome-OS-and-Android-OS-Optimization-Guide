@@ -872,6 +872,7 @@ AdGuard for Androidの質問テンプレ
 * AdGuard for Android v4.7.1以上のプライベートブラウザが原因で、WebViewの更新後に自動再起動に失敗する現象がありました。
 
 **対処法（※ローカルVPNの安定化）**
+
 ① v4.6.5以下（例: [v3.6.11](https://github.com/AdguardTeam/AdguardForAndroid/releases/tag/v3.6.11)）へダウングレード
 
 ② v4.7.1〜v4.9でウォッチドッグ機能を有効化
