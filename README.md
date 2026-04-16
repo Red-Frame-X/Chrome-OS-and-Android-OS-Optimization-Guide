@@ -661,6 +661,7 @@ v5.2.400で強化された機能は、設定画面内でカスタムフィルタ
 `AdGuard module - not for independent use` は、`AdGuard Japanese filter Plus` のサブリストとして自動的にincludeされます。
 
 **◆ ユーザールールにルールを全コピー & 全ペーストする場合**
+
 両方のフィルタのルールを全コピー & ペーストする必要があります。
 
 **! カスタムフィルタ・ユーザールール**
@@ -682,7 +683,7 @@ https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
   
   AdGuard Japanese filterを補完するフィルタ。迂回広告や悪質ポップアップ、一部のAnti-Adblockへの汎用的な追加対策。
 
-### ◆ 開発者ツールと連動した手動ブロック機能
+**◆ 開発者ツールと連動した手動ブロック機能
 開発者ツールと連動した手動ブロック機能が搭載されています（[画像](https://imgur.com/DcEH4K4)）。作成したルールはユーザールールに格納されます。
 
 ### ◆ Chromeのアドレスバーから新しいタブでユーザールールを開く
