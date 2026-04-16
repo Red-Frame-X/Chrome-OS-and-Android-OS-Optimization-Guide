@@ -759,7 +759,7 @@ title/Example Domain/
 **! 購読済みのDNSブロックリスト・hostsファイル**
 * HaGeZi's Pro DNS Blocklist
 ```
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt)
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
 ```
 
 **参考サイト**
