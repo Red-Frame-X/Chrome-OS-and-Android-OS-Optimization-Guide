@@ -656,6 +656,7 @@ v5.2.400以降、拡張機能と組み込み・カスタムフィルタは、「
 
 **! カスタムフィルタ・ユーザールール**
 * AdGuard Japanese filter Plus
+
 https://yuki2718.github.io/adblock2/japanese/jpf-plus.txt](https://yuki2718.github.io/adblock2/japanese/jpf-plus.txt)
 * AdGuard module - not for independent use：[https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt](https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt)
 
