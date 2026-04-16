@@ -699,7 +699,7 @@ chrome-extension://bgnkhhnnamicmpeenaelnjfhikgbkllg/pages/fullscreen-user-rules.
   ```
   [Enhancer for YouTube™](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) を使う場合、いくつかのUI調整ユーザールールは不要になります。
 
-### 𝕏/Twitter ルール作り資料｜uBlockOrigin
+### 𝕏/Twitter ルール作り資料｜uBlock Origin
 * [uAssets（𝕏投稿）](https://x.com/Red_Frame_X/status/2010925824636252329)
 * [uAssets / filters / filters-2023.txt](https://github.com/uBlockOrigin/uAssets/blob/e4933fdffaaaa318f58fb8a7a34d784220100ff2/filters/filters-2023.txt#L4284-L4288)
 * [json-prune-xhr-response.js](https://github.com/gorhill/uBlock/wiki/Resources-Library#json-prune-xhr-responsejs-)
