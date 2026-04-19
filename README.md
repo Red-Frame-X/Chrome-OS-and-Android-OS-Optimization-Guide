@@ -767,7 +767,6 @@ title/Example Domain/
 
 **◆ personalDNSfilter（ローカルVPNモード）を安定して稼働させるための設定**
 
-※ ChromeOS内蔵のAndroid OSには「アプリのバッテリー使用量」の設定項目がありません。
 * Androidのステータスバー：通知右上⚙を押して、**通知をデフォルトからサイレント**に変更する
 * AndroidのVPN設定で **「常時接続VPN」を有効**にする
 * VPNの接続が不安定な時は、**「VPNプロファイル」を一度削除し、再設定する**
