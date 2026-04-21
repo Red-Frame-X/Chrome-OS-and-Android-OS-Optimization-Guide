@@ -737,9 +737,7 @@ https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlacklist
 ```
 https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlacklist-Exclusion.txt
 ```
-* ncaq-uBlacklistRule
-```
-https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt
+
 ```
 
 検索結果の非表示ルール例：
