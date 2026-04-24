@@ -836,7 +836,7 @@ https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
 **! フィッシング詐欺サイト対策**
 * Block malicious websites by Kdroidwin
 ```
-https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlockorigin.txt
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
 
   検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
